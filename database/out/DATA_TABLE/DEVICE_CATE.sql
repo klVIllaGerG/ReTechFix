@@ -1,0 +1,12 @@
+REM INSERTING into JAY.DEVICE_CATE
+SET DEFINE OFF;
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('001','phone');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('002','pc');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('003','laptop');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('004','earphone');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('005','mp3');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('006','gameconsole');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('009','pad');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('010','monitor');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('007','handle');
+Insert into JAY.DEVICE_CATE (CATEGORYID,CATEGORY_NAME) values ('008','keyboard');
